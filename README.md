@@ -92,15 +92,6 @@ A responsive, reactive blogging platform using Appwrite as a Backend-as-a-Servic
 
 ---
 
-### 🌐 [DigiFlow – Digital Agency Website](https://github.com/Zeeshan-48/DigiFlow)
-> HTML5 · CSS3 · Bootstrap · Vercel &nbsp;|&nbsp; [Live Demo ↗](https://digi-flow-mu.vercel.app)
-
-A fully responsive multi-section website for a digital agency.
-- Modern UI with hero section, services, and contact form
-- Deployed live on Vercel
-
----
-
 ### 🧑‍💼 [Personal Portfolio Website](https://github.com/Zeeshan-48/Portfolio)
 > HTML5 · CSS3 · JavaScript · Vercel &nbsp;|&nbsp; [Live Demo ↗](https://portfolio-zeeshan-48s-projects.vercel.app)
 
